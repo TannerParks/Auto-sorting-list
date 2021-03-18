@@ -1,1 +1,1 @@
-# Auto-sorting-list
+I thought I turned this in but apparently I didn't. I think I had a math 254 test that day so maybe I just forgot because I was working on that. Either way, here it is if you can still give it a grade. I pretty much just reused the sorting and searching stuff we did in 162 and changed it to work for C++.
